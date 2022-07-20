@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Botirjon2003
+- 👋 Hi, I’m Botirjon Shokirov
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
